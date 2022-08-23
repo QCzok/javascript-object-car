@@ -1,7 +1,7 @@
 # javascript-object-car
 
 ## Aufgabenstellung - Teil 1
-Erstelle ein Objekt zu einem Auto. Der Name des Objektes ist "meinAuto" und hat folgenden Inhalt:
+Erstelle ein Objekt zu einem Auto. Der Variablenname des Objektes ist `meinAuto` und hat folgenden Inhalt:
 
 1. Marke: Ford
 
